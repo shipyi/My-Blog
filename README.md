@@ -162,3 +162,5 @@
 - [DONGChuan](https://github.com/DONGChuan/Yummy-Jekyll)
 - [zjhch123](https://github.com/zjhch123/solo-skin-amaze)
 - [t4t5](https://github.com/t4t5/sweetalert)
+
+  $ nohup java -jar my-blog-4.0.0-SNAPSHOT.jar >log.txt &
